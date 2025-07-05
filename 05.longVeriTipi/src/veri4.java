@@ -15,7 +15,7 @@ Bu aklımızın bir köşesinde kalsın. */
 		
 		
 		
- /* long veri tipi tanımladığımız değişkenleri integerdan ayırmak için 
+ /* Long veri tipi tanımladığımız değişkenleri integerdan ayırmak için 
   tanımda long=56378153476L; kullanırız,*/
 		long sayi=5365861874736829823L;
 		System.out.println(sayi);
