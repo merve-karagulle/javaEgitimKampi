@@ -6,7 +6,7 @@ public class veri4 {
 // Long veri tipi çok büyük tamsayılar için kullanılır.
 /*Java kütüphanelerinde değişken tiplerininin sınıfları mevcuttur ve 
 bu sınıflara ait  metodlar,yöntemler bulunmaktadır.
-Bu aklımızın bir köşesinde kalsın. */
+Bu aklımızın bir köşesinde kalsın:) */
 		
 		long maxDeger=Long.MAX_VALUE;
 		System.out.println(maxDeger);
