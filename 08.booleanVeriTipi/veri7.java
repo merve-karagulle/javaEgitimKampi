@@ -2,7 +2,7 @@
 public class veri7 {
 
 	public static void main(String[] args) {
-		//karşılaştırma operatörlerinin sonucu ya doğrudur ya yanlıştır.
+		//Karşılaştırma operatörlerinin sonucu ya doğrudur ya yanlıştır.
 		//Bu durumlarda boolean veri tipi kullanılır.
 		
 		boolean sonuc=5>2;
