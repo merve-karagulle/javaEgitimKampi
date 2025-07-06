@@ -3,7 +3,7 @@ public class veri5 {
 
 	public static void main(String[] args) {
 		//ondalıklı sayılar tanımlamak için kullanılmaktadır.
-		//virgülden sonra 7 basamak kapasitesi vardır.
+		// virgülden sonra 7 basamak kapasitesi vardır.
 		
 	  float maxDeger=Float.MAX_VALUE;
 	  System.out.println(maxDeger);
