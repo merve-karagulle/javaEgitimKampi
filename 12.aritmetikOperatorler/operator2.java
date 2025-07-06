@@ -37,7 +37,7 @@ public class operator2 {
 		System.out.println(sayi3);
 		System.out.println("Çarpım sonucu:"+ carpim+" Bölüm Sonucu:"+bolum+" Diger işlemin sonucu:"+sayi3);
 		
-		// mod alma operatörü(%) kalan bulmak için kullanılır
+		//mod alma operatörü(%) kalan bulmak için kullanılır
 	    int sayi4=10;
 	    int kalan=sayi4%3;//10 sayısının 3 ile bölümünden kalanı kalan değişkenine aktarır.
 	    System.out.println(kalan);
