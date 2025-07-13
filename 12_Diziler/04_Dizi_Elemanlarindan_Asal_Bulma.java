@@ -1,4 +1,4 @@
-package dizi;
+
 import java.util.Scanner;
 public class dizi {
 
